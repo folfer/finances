@@ -14,7 +14,7 @@ const Header: React.FC<Headerprops> = ({ onOpenNewTransactionModal }) => {
       <Content>
         <img src={logoImg} alt="finances" />
         <button type="button" onClick={onOpenNewTransactionModal}>
-          Nova transação
+          Nova transaçã0
         </button>
       </Content>
     </Container>
