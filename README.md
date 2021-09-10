@@ -3,15 +3,15 @@
 </p>
 
 <p align="center">	
-   <a href="https://www.linkedin.com/in/leonne-sousa-brito/">
-      <img alt="LeonneBrito" src="https://img.shields.io/badge/-LeonneBrito-5965e0?style=flat&logo=Linkedin&logoColor=white" />
+   <a href="https://www.linkedin.com/in/victor-calazans-ramos/">
+      <img alt="VictorCalazans" src="https://img.shields.io/badge/-VictorCalazans-5965e0?style=flat&logo=Linkedin&logoColor=white" />
    </a>
-  <img alt="Languages" src="https://img.shields.io/github/languages/count/LeonneBrito/dt.money?color=%235963C5" />
-  <img alt="lastcommit" src="https://img.shields.io/github/last-commit/LeonneBrito/dt.money?color=%235761C3" />
-  <img alt="License" src="https://img.shields.io/github/license/LeonneBrito/dt.money?color=%235E69D7" />
-  <img alt="Issues" src="https://img.shields.io/github/issues/LeonneBrito/dt.money?color=%235965E0">
-  <a href="mailto:britoleonne@gmail.com">
-   <img alt="Email" src="https://img.shields.io/badge/-britoleonne%40gmail.com-%23525DCB" />
+  <img alt="Languages" src="https://img.shields.io/github/languages/count/VictorCalazans/dt.money?color=%235963C5" />
+  <img alt="lastcommit" src="https://img.shields.io/github/last-commit/VictorCalazans/dt.money?color=%235761C3" />
+  <img alt="License" src="https://img.shields.io/github/license/VictorCalazans/dt.money?color=%235E69D7" />
+  <img alt="Issues" src="https://img.shields.io/github/issues/VictorCalazans/dt.money?color=%235965E0">
+  <a href="mailto:victor.folfer@gmail.com">
+   <img alt="Email" src="https://img.shields.io/badge/-victorcalazans%40gmail.com-%23525DCB" />
   </a>
 </p>
 
@@ -75,7 +75,6 @@ Go to http://localhost:3000/ to see the result.
 
 # :page_facing_up: License
 
-This project is under the [MIT license](./LICENSE).
-Made with 💖 by [Leonne Brito](https://www.linkedin.com/in/leonne-sousa-brito/). 
+Made with 💖 by [VictorCalazans](https://www.linkedin.com/in/victor-calazans-ramos/). 
 
 Thank you! 🌠
