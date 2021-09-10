@@ -17,7 +17,7 @@
 
 <div align="center">
   <sub> Made with 💖 by
-    <a href="https://github.com/LeonneBrito">Victor Calazans Ramos
+    <a href="https://github.com/folfer">Victor Calazans Ramos
   </sub>
 </div>
 
