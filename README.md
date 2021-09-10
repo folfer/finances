@@ -7,7 +7,7 @@
       <img alt="VictorCalazans" src="https://img.shields.io/badge/-VictorCalazans-5965e0?style=flat&logo=Linkedin&logoColor=white" />
    </a>
   <a href="mailto:victor.folfer@gmail.com">
-   <img alt="Email" src="https://img.shields.io/badge/-victorcalazans%40gmail.com-%23525DCB" />
+   <img alt="Email" src="https://img.shields.io/badge/-victor.folfer%40gmail.com-%23525DCB" />
   </a>
 </p>
 
