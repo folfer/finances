@@ -23,12 +23,9 @@
 
 # 📌 Contents
 
-* [Screenshots](#camera-screenshot) 
 * [Technologies](#rocket-technologies) 
 * [How to Run](#computer-how-to-run)
-* [Issues](#bug-issues)
 * [Contributing](#sparkles-issues)
-* [License](#page_facing_up-license)
 
 # :rocket: Technologies
 This project was made using the follow technologies:
@@ -42,7 +39,7 @@ This project was made using the follow technologies:
 
 ```bash
 # Clone Repository
-$ git clone https://github.com/LeonneBrito/dt.money.git
+$ git clone https://github.com/folfer/finances.git
 ```
 
 ```bash
