@@ -1,15 +1,11 @@
 <p align="center">
-   <img src="./.github/logo.svg" alt="Move It" width="300"/>
+   <img src="./.github/logo.svg" alt="Finances" width="300"/>
 </p>
 
 <p align="center">	
    <a href="https://www.linkedin.com/in/victor-calazans-ramos/">
       <img alt="VictorCalazans" src="https://img.shields.io/badge/-VictorCalazans-5965e0?style=flat&logo=Linkedin&logoColor=white" />
    </a>
-  <img alt="Languages" src="https://img.shields.io/github/languages/count/VictorCalazans/dt.money?color=%235963C5" />
-  <img alt="lastcommit" src="https://img.shields.io/github/last-commit/VictorCalazans/dt.money?color=%235761C3" />
-  <img alt="License" src="https://img.shields.io/github/license/VictorCalazans/dt.money?color=%235E69D7" />
-  <img alt="Issues" src="https://img.shields.io/github/issues/VictorCalazans/dt.money?color=%235965E0">
   <a href="mailto:victor.folfer@gmail.com">
    <img alt="Email" src="https://img.shields.io/badge/-victorcalazans%40gmail.com-%23525DCB" />
   </a>
