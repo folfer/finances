@@ -30,14 +30,6 @@
 * [Contributing](#sparkles-issues)
 * [License](#page_facing_up-license)
 
-# :camera: Screenshots
-<div align="center">
-   <img src="./.github/screen1.png" width="400px">
-   <img src="./.github/screen2.png" width="400px">
-   <img src="./.github/screen3.png" width="400px">
-   <img src="./.github/screen4.png" width="400px">
-</div>
-
 # :rocket: Technologies
 This project was made using the follow technologies:
 
